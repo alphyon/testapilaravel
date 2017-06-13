@@ -1,0 +1,375 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"R",
+				"RUN"
+			],
+			[
+				"dot",
+				"dotdeb"
+			],
+			[
+				"ap",
+				"apt-get"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nSublimeGit\n----------\n\n  Welcome to SublimeGit\n  =====================\n  \n  SublimeGit is a full-featured, commercial plugin for integrating\n  git into Sublime Text 2 and 3. To read more about it, or purchase\n  a license, go to https://sublimegit.net.\n  \n  \n  Quickstart\n  ----------\n  Make sure to restart Sublime Text after installing SublimeGit.\n  \n  Run the command \"Git: Status\" to open the status view. This\n  is where you'll spend most of the time when interacting with\n  git through SublimeGit. From here you can stage/unstage files,\n  manage stashes, view diffs, and initiate a commit.\n  \n  Other commands are available in the command palette (cmd+shift+p\n  on OS X, ctrl+shift+p on Windows/Linux). They are all prefixed\n  with \"Git:\" and most of them do exactly what it says on the label.\n  \n  \n  Tutorial\n  --------\n  For the full tutorial, go to:\n  \n      https://docs.sublimegit.net/tutorial.html\n  \n  \n  Trouble Getting Started?\n  ------------------------\n  If you are on windows, or don't usually use git from the command\n  line, there might be some things you'll need to set up. Go here\n  for instructions on how to get set up:\n  \n      https://docs.sublimegit.net/quickstart.html\n  \n  \n  Issues, Questions or Bugs?\n  --------------------------\n  Send a mail to support@sublimegit.net, or report it in the issue\n  tracker:\n  \n      https://github.com/SublimeGit/SublimeGit/issues\n",
+			"settings":
+			{
+				"buffer_size": 1447,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Indexing Status"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Ma",
+				"Material Theme: Activate theme"
+			],
+			[
+				"Package Control: pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/alphyon/dev2/Code/api",
+		"/Users/alphyon/dev2/Code/api/app",
+		"/Users/alphyon/dev2/Code/api/public",
+		"/Users/alphyon/dev2/Code/api/routes"
+	],
+	"file_history":
+	[
+		"/Users/alphyon/dev2/Code/api/routes/api.php",
+		"/Users/alphyon/dev2/Code/api/routes/web.php",
+		"/Users/alphyon/dev2/Code/api/.env",
+		"/Users/alphyon/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/alphyon/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/alphyon/Library/Application Support/Sublime Text 3/Packages/Terminal/Default (OSX).sublime-keymap",
+		"/Users/alphyon/dev2/Code/api/config/app.php",
+		"/Users/alphyon/Library/Application Support/Sublime Text 3/Packages/User/PHP Companion.sublime-settings",
+		"/Users/alphyon/dev2/Code/api/app/User.php",
+		"/Users/alphyon/Library/Application Support/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
+		"/Users/alphyon/dev2/Code/api/public/index.php",
+		"/Users/alphyon/dev2/Code/api/vendor/laravel/framework/src/Illuminate/Notifications/Notifiable.php",
+		"/Users/alphyon/dev2/Code/api/vendor/laravel/framework/src/Illuminate/Auth/Authenticatable.php",
+		"/Users/alphyon/dev2/Dockerfile",
+		"/Users/alphyon/Desktop/Readme",
+		"/Users/alphyon/laravel/app/phpunit.xml",
+		"/Users/alphyon/dev/Dockerfile",
+		"/Users/alphyon/dockerDevWeb/Dockerfile",
+		"/Users/alphyon/Documents/Kitematic/debian/var/www/html/app/routes/web.php",
+		"/Users/alphyon/cursos/docker/dockercompose/docker-compose.yml",
+		"/Users/alphyon/cursos/docker/dockercompose/scripts/start.sh",
+		"/Users/alphyon/cursos/Devops/docker-demo/Vagrantfile",
+		"/Users/alphyon/dockerbuild/Dockerfile",
+		"/Volumes/BOOTCAMP/Users/alphyon/workspace/wokspace1/GenericConnector/XSD/consultaRequest.xsd",
+		"/Volumes/BOOTCAMP/Users/alphyon/workspace/wokspace1/GenericConnector/XSD/pagoResponse.xsd",
+		"/Volumes/BOOTCAMP/Users/alphyon/workspace/wokspace1/GenericConnector/XSD/pagoRequest.xsd",
+		"/Applications/MAMP/bin/startApache.sh",
+		"/Users/alphyon/Desktop/univers/univers-ui/pom.xml",
+		"/Users/alphyon/Desktop/univers/univers-web/pom.xml",
+		"/Users/alphyon/Desktop/untitled.xml",
+		"/Users/alphyon/Downloads/QueryPageByNumber01-06-2017.xml",
+		"/Users/alphyon/curso/pruebasJpa/src/main/java/com/alphyon/jpa/Student.java",
+		"/Users/alphyon/Projects/lab05/PhoneApp/Resources/layout/Main.axml",
+		"/Users/alphyon/NetBeansProjects/NavigationTest/src/main/webapp/WEB-INF/faces-config.xml",
+		"/Users/alphyon/NetBeansProjects/NaviagationExample/web/WEB-INF/faces-config.xml",
+		"/Users/alphyon/Projects/Lab08/Lab08/Resources/layout/Main.axml",
+		"/Users/alphyon/Documents/certificacionJava/clave",
+		"/Users/alphyon/Projects/lab04/AppTest/MainActivity.cs",
+		"/Users/alphyon/Projects/lab05/PhoneApp/MainActivity.cs",
+		"/Users/alphyon/Documents/udemy-plugins-de-wordpress/zenvacustomtable/uninstall.php",
+		"/Applications/MAMP/htdocs/wp/wp-content/plugins/zenvawishlist/zenvawishlist.php",
+		"/Applications/MAMP/htdocs/wp/wp-content/plugins/zenvawishlist/zenvawishlist.js",
+		"/Users/alphyon/Documents/udemy-plugins-de-wordpress/zenvawishlist/zenvawishlist.php",
+		"/Applications/MAMP/htdocs/oop/herencia.php",
+		"/Users/alphyon/Projects/testApp/testApp/MyClass.cs",
+		"/Users/alphyon/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/alphyon/Library/Application Support/Sublime Text 3/Packages/Schemr/SchemrFavorites.sublime-settings",
+		"/Applications/MAMP/htdocs/ficha/reportesTipo.php",
+		"/Applications/MAMP/bin/php/php7.1.0/conf/php.ini",
+		"/Users/alphyon/Projects/lab01/AndroidApp/MainActivity.cs",
+		"/Users/alphyon/Projects/testAndroid/Droid/MainActivity.cs",
+		"/Users/alphyon/.bash_profile",
+		"/Users/alphyon/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/alphyon/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/alphyon/bitbarplugins/Screenshotter.1d.sh",
+		"/Users/alphyon/sonartest/RA/SOURCE/sonar-project.properties",
+		"/Users/alphyon/sonartest/RA/SOURCE/ResourcesManager-api/pom.xml",
+		"/Users/alphyon/sonartest/RA/SOURCE/ResourcesManager/pom.xml",
+		"/Users/alphyon/Documents/curso Devops/DevOps Course Resources",
+		"/Users/alphyon/Documents/stefanini/cambios en Gestor",
+		"/Users/alphyon/Documents/test",
+		"/Users/alphyon/sonarqube/conf/sonar.properties",
+		"/Users/alphyon/sonartest/SLV/sonar-project.properties",
+		"/Users/alphyon/sonartest/tigoplay/sonar-project.properties",
+		"/Users/alphyon/sonartest/v15/sonar-project.properties",
+		"/Users/alphyon/sonartest/v33/sonar-project.properties",
+		"/Users/alphyon/sharedvm/plandev.xml",
+		"/Users/alphyon/Downloads/proyectoFramework-master/Coneccion.php",
+		"/Users/alphyon/Downloads/proyectoFramework-master/sonar-project.properties",
+		"/Users/alphyon/sharedvm/testsonar/sonar-project.properties",
+		"/Users/alphyon/sharedvm/v33/sonar-project.properties",
+		"/Users/alphyon/repos/testsonar/sonar-project.properties"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"developer",
+			"1-53UW-1219",
+			"1-2F8QDA4"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"default_dir": "/Users/alphyon/dev2/Code/api",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1447,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1447,
+								1447
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"default_dir": "/Users/alphyon/dev2/Code/api",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 137.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "api.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"config/",
+				"config/app.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 167.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
