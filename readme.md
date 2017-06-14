@@ -5,5 +5,20 @@ ejecutar desde la consola los comandos
 
 ```
 php artisan migrate
-- **[British Software Development](https://www.britishsoftware.co)**
+```
+
+al ejecutar sin errores el comando ejeuctar el siguiente
+
+```
+php artisan db:seed
+```
+con esto se cargan los datos de prueba
+
+ya con dichos datos cargados hacemos las pruebas 
+
+accediendo a la url de acuerdo a nuestro entorno ejemplo 
+
+http://localhost/users  --- esto carga el enpoint con todos los datos del usuario
+
+
 
